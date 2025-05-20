@@ -22,3 +22,5 @@ install:
 benri_command   便利コマンド
 
 ```
+
+タブサイズを[この辺](https://github.com/karashi39/makefile/blob/main/Makefile#L2)で決めてるので、Makefileの内容によって調整が必要です
